@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PurchaseOrder>
+	<Item number="130046593231">
+		<Description>Video Game</Description>
+		<Price>10.29</Price>
+	</Item>
+	<Buyer id="8492340">
+		<Name>My Name</Name>
+		<Address>
+			<Street>One Network Drive</Street>
+			<Town>Burlington</Town>
+			<State>MA</State>
+			<Country>United States</Country>
+			<PostalCode>01803</PostalCode>
+		</Address>
+	</Buyer>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+	<SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><DigestValue>Ba2luQuwfJPkqKeVKxmXZ8ULquz5z9VLKFau4SzJtAk=</DigestValue></Reference></SignedInfo><SignatureValue>uIyggV757IVcMKySv/KWUOVV4Jc7Sj7nu1rHJ5v+9hlHTECWZGUdKo0kSf77Wy0n2EvIT3kgSVdz&#13;
+iMIM9Y3TuHcksQikR+uVGRmVy6pUj/mCR/i2vl8oS3DLruWGlUB+Te57wtpZ19JbfkEdVSwMfAe3&#13;
+djZscnWax8sE7wTdiPA4SSs4oZ8uW9XoN8RDwnnvj9rqELa/HvJxTGv/iC6HH9cW3UxeLokYIMK1&#13;
+BTV/enhyeXkWH91Ofr0XLg1/2VoFV1fX3ydXNGTqkfv7qvQjyUpFQEXRM+SrfywlWaxkZ4N9LCTP&#13;
+Pb6a8wcDh82+VN1ZvJai22E3syxHegkSd14REg==</SignatureValue><KeyInfo><X509Data><X509SubjectName>CN=Test Testsson,OU=VFB,O=VFB,L=Goteborg,ST=Unknown,C=SE</X509SubjectName><X509Certificate>MIIDbzCCAlegAwIBAgIIMCquU787khowDQYJKoZIhvcNAQELBQAwZjELMAkGA1UEBhMCU0UxEDAO&#13;
+BgNVBAgTB1Vua25vd24xETAPBgNVBAcTCEdvdGVib3JnMQwwCgYDVQQKEwNWRkIxDDAKBgNVBAsT&#13;
+A1ZGQjEWMBQGA1UEAxMNVGVzdCBUZXN0c3NvbjAeFw0yMjA0MjcwOTU1MjZaFw0yMjA3MjYwOTU1&#13;
+MjZaMGYxCzAJBgNVBAYTAlNFMRAwDgYDVQQIEwdVbmtub3duMREwDwYDVQQHEwhHb3RlYm9yZzEM&#13;
+MAoGA1UEChMDVkZCMQwwCgYDVQQLEwNWRkIxFjAUBgNVBAMTDVRlc3QgVGVzdHNzb24wggEiMA0G&#13;
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC4lqsINT2ZpRsXNHAsSd+ZQ8UUO4pOKPM54rhfWNNc&#13;
+FpB39nHpUzTQ5qI3wQJQjvB0nRn4A4GMvO8QWN2k98kYh4DGaM0ViDAPHhUQp/hPGiUWA8urM0Ol&#13;
+uWgUAKI186c5LBTGp4VuAMltEEELIkqZsqRLj8qgcHb2syHnc9rq7L7DvTfRbZy1ADHpVirTGp+s&#13;
+QGgajhGAlTLegtXRn53ypI4tSYhH4OGU2rbgGD+G5zxqkLYW0IpmpDDUaY7BBoQy929xdW0YyhW4&#13;
+INOlDMmDXoVOd37UhHT6SjiGzzvtuJP900ZtbEKQvSdQ9JHyKeGGzj6Qrl+fPZy4/5IDwiydAgMB&#13;
+AAGjITAfMB0GA1UdDgQWBBTKq/u2dg/YNjJw4jVX+SWpCevs3TANBgkqhkiG9w0BAQsFAAOCAQEA&#13;
+X5E95qmC9dwUbAnszELxINSKFLWHL5MfBwMzwOZ04iH+mWQ/mcnczDTP7UCGK82gy9TadLPJhFLu&#13;
+qqrlfDq7qrzeK1MRrfgGmLoaita/MbZk2LZizdNwTHp10nkmOMR6izHPl7AhtodObCzYWTJWkM72&#13;
+QmDrBXcGg7xmklX+lfRYj8ySoyo6LmkBfcBs3eEXSrFooEvdzLx8kd4xxSt2gXMtR4m5umtDzLEr&#13;
+8QZ4bhLq1ipLc/VJneIOWLQqfUzAJ+FQDILhFnwDCHHZ/EEiB9fnTuX1oYfQBGt3naVtq5ZG+Glu&#13;
+d5FCaCOci3IQqv3hKMmG+EUOUTt/7mcboucWog==</X509Certificate></X509Data></KeyInfo></Signature></PurchaseOrder>
